@@ -1,0 +1,11 @@
+{
+  "name": "tugas-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "soal-1.js",
+  "scripts": {
+    "test": "soal-1.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
