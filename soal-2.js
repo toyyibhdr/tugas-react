@@ -9,8 +9,8 @@ const pemetaanHewan = (hewan, makanan) => {
 
     const hasilPemetaan = {};
 
-    for (let a=0; a<hewan; a++){
-        hasilPemetaan[hewan[a], makanan[a]];
+    for (let a=0; a<hewan.length; a++){
+        hasilPemetaan[hewan[a]]= makanan[a];
     }
 
     return hasilPemetaan;
